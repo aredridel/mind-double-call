@@ -1,0 +1,16 @@
+{
+  "name": "mind-double-call",
+  "version": "0.0.0",
+  "description": "A simple helper to catch double-called callbacks",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/aredridel/mind-double-call.git"
+  },
+  "author": "Aria Stewart <aredridel@dinhe.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aredridel/mind-double-call/issues"
+  },
+  "homepage": "https://github.com/aredridel/mind-double-call"
+}
